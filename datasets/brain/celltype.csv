@@ -1,0 +1,63 @@
+,cell,index
+Human GBM / peri-tumor astrocytes,astrocytes,0
+Human GBM / peri-tumor astrocytes.1,astrocytes,0
+Human GBM / peri-tumor astrocytes.2,astrocytes,0
+Human GBM / peri-tumor astrocytes.3,astrocytes,0
+Human sclerotic hippocampi astrocytes,astrocytes,0
+Human sclerotic hippocampi astrocytes.1,astrocytes,0
+Human sclerotic hippocampi astrocytes.2,astrocytes,0
+Human sclerotic hippocampi astrocytes.3,astrocytes,0
+Human fetal astrocytes,astrocytes,0
+Human fetal astrocytes.1,astrocytes,0
+Human fetal astrocytes.2,astrocytes,0
+Human fetal astrocytes.3,astrocytes,0
+Human fetal astrocytes.4,astrocytes,0
+Human fetal astrocytes.5,astrocytes,0
+Human mature astrocytes,astrocytes,0
+Human mature astrocytes.1,astrocytes,0
+Human mature astrocytes.2,astrocytes,0
+Human mature astrocytes.3,astrocytes,0
+Human mature astrocytes.4,astrocytes,0
+Human mature astrocytes.5,astrocytes,0
+Human mature astrocytes.6,astrocytes,0
+Human mature astrocytes.7,astrocytes,0
+Human mature astrocytes.8,astrocytes,0
+Human mature astrocytes.9,astrocytes,0
+Human mature astrocytes.10,astrocytes,0
+Human mature astrocytes.11,astrocytes,0
+Human Neurons,neurons,1
+Human Oligodendrocytes,oligodendrocytes,2
+Human Oligodendrocytes.1,oligodendrocytes,2
+Human Oligodendrocytes.2,oligodendrocytes,2
+Human Oligodendrocytes.3,oligodendrocytes,2
+Human Oligodendrocytes.4,oligodendrocytes,2
+Human Microglia/Macrophage,microglia,3
+Human Microglia/Macrophage.1,microglia,3
+Human Microglia/Macrophage.2,microglia,3
+Human Endothelial,endothelial,4
+Human Endothelial.1,endothelial,4
+Human whole cortex,whole brain,5
+Human whole cortex.1,whole brain,5
+Human whole cortex.2,whole brain,5
+Human whole cortex.3,whole brain,5
+Mouse astrocytes-FACS,astrocytes,0
+Mouse astrocytes-FACS.1,astrocytes,0
+Mouse astrocytes-immunopanned,astrocytes,0
+Mouse astrocytes-immunopanned.1,astrocytes,0
+Mouse astrocytes-immunopanned.2,astrocytes,0
+Mouse astrocytes-immunopanned.3,astrocytes,0
+Mouse neurons,neurons,1
+Mouse neurons.1,neurons,1
+Mouse oligodendrocytes,oligodendrocytes,2
+Mouse oligodendrocytes.1,oligodendrocytes,2
+Mouse oligodendrocytes.2,oligodendrocytes,2
+Mouse oligodendrocytes.3,oligodendrocytes,2
+Mouse oligodendrocytes.4,oligodendrocytes,2
+Mouse oligodendrocytes.5,oligodendrocytes,2
+Mouse microglia,microglia,3
+Mouse microglia.1,microglia,3
+Mouse endothelial,endothelial,4
+Mouse endothelial.1,endothelial,4
+Mouse whole brain,whole brain,5
+Mouse whole brain.1,whole brain,5
+Mouse whole brain.2,whole brain,5
